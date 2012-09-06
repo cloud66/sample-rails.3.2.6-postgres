@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  size: 1
+  weight: 1
+  is_full: false
+
+two:
+  size: 1
+  weight: 1
+  is_full: false
