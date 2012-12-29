@@ -55,7 +55,5 @@ production:
   encoding: unicode
   database: postgres_production
   pool: 5
-  username: jack
-  password: jill
   host: localhost
   port: 5432
