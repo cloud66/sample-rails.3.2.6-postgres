@@ -1,0 +1,12 @@
+production:
+  postgresql:
+    configuration:
+      version: 9.3.0
+staging:
+  postgresql:
+    configuration:
+      version: 9.3.0
+development:
+  postgresql:
+    configuration:
+      version: 9.3.0
